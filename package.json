@@ -1,0 +1,15 @@
+{
+  "name": "codeoff-flatten",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "author": "ForsakenHarmony",
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^3.2.0"
+  }
+}
